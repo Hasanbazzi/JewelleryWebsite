@@ -1,0 +1,11 @@
+.accessories{
+   display: flex;
+   flex-direction: column;
+}
+.productss{
+    display: flex; margin-right: 70px;
+}
+.title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
