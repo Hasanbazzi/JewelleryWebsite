@@ -26,7 +26,3 @@ This project is a responsive e-commerce platform for managing jewelry inventory 
 ---
 
 **🌟 Fun Note:** If you’re reading this, I hope you have an amazing day! 😄  
-
----
-
-Feel free to tweak the tone or add more details about the project if needed!
